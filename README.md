@@ -1,5 +1,5 @@
 # 我的博客
 
-这个项目建了有很长时间了，一直没有更新点什么，2016争取发表20篇以上的技术干货。
+[http://blog.qingzhui.net](http://blog.qingzhui.net)
 
 欢迎同行交流，我的qq：670761743，邮箱：qingzhuinet@gmail.com
